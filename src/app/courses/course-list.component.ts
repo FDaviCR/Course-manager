@@ -17,7 +17,7 @@ export class CourseListComponent implements OnInit {
                 price: 99.99,
                 code: 'XPS8877',
                 duration: 120,
-                rating: 5.8
+                rating: 4.8
             },
             {
                 id: 2,
@@ -26,7 +26,7 @@ export class CourseListComponent implements OnInit {
                 price: 45.99,
                 code: 'XPS8867',
                 duration: 320,
-                rating: 4.9
+                rating: 3.9
             }
         ]
     }
